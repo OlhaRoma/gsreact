@@ -1,0 +1,11 @@
+.block {
+    padding: 30px;
+}
+
+.formInput {
+    display: flex;
+}
+
+.accInput {
+    padding-left: 5px;
+}
